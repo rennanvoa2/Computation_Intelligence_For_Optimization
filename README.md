@@ -1,4 +1,4 @@
-<center><h1>Computation_Intelligence_For_Optimization<h1></center>
+<center><h1>Computational_Intelligence_For_Optimization<h1></center>
 <center><h3>Algorithms for CIFO<h3></center>
 <hr/>
 <center><h2> Hill Climbing Problem</h2></center>
