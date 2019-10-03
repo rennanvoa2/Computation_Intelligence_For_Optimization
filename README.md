@@ -9,7 +9,7 @@ Example: Let's supose whe random a number between 0 and 15, and this random numb
 <hr/>
 <center><h2> Hill Climbing Problem - Mastermind Game</h2></center>
 The deal here is to get the local best, not the global best. Sometimes the local is the global best, and sometimes its not. 
-You can set the algorith to accept blank spaces or repeat colors to make the code harder to break. 
-As you put more iterations best is the chance to get the global best.
+You can set the algorithm to accept blank spaces or repeat colors to make the code harder to break. 
+As you put more iterations better is the chance to get the global best.
 <hr/
 
